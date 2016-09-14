@@ -1,0 +1,101 @@
+D:\work\teoria informacii\Server 2.0\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+D:\work\teoria informacii\Server 2.0\Server 2.0\bin\Debug\Server 2.0.exe
+D:\work\teoria informacii\Server 2.0\Server 2.0\bin\Debug\Server 2.0.pdb
+D:\work\teoria informacii\Server 2.0\Server 2.0\bin\Debug\NLog.dll
+D:\work\teoria informacii\Server 2.0\Server 2.0\bin\Debug\NLog.xml
+D:\work\teoria informacii\Server 2.0\Server 2.0\obj\x86\Debug\Server 2.0.exe
+D:\work\teoria informacii\Server 2.0\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+D:\work\teoria informacii\Server 2.0\Server 2.0\bin\Debug\NLog.config
+C:\Project\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\Project\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\NLog.dll
+C:\Project\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\Project\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+D:\work\Poker-Sharp\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+D:\work\Poker-Sharp\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+D:\work\Poker-Sharp\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+D:\work\Poker-Sharp\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+D:\work\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+D:\work\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+D:\work\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.dll
+D:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+D:\DropBox\Dropbox\poher\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+D:\DropBox\Dropbox\poher\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+D:\DropBox\Dropbox\poher\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\NLog.dll
+C:\Users\Dok\Desktop\Новая папка\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\NLog.pdb
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\Users\Alexey\Desktop\Project\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.pdb
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\Users\Alexey\Desktop\Project\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.csprojResolveAssemblyReference.cache
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\work\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\work\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\NLog.pdb
+C:\work\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\work\PoherSharp\Server\Server 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\work\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\work\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.pdb
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\Database1.sdf
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.config
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.pdb
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.pdb
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\bin\Debug\NLog.xml
+C:\Users\Cat\Desktop\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\work\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\work\PS - копия\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\work\PS - копия\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\work\PS - копия\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\Server\Server 2.0\bin\Debug\Server 2.0.exe.config
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.exe
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\Server\Server 2.0\obj\x86\Debug\Server 2.0.pdb
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\DataBase\Database1.sdf
+C:\work\PS\PoherSharp\Server\Server 2.0\bin\Debug\ProgramLogic\NLog.config
