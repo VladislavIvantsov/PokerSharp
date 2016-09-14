@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6c5bc589826c15b418aafe8724233c57
+timeCreated: 1431414975
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CoverCard: {fileID: 21300000, guid: 0db6314bdcaf0954b9a166fc8cdf336d, type: 3}
+  - GamerSprite: {fileID: 21300000, guid: 400ef65b857003743b0aea55638c1712, type: 3}
+  - CurrentGamerSprite: {fileID: 21300000, guid: c9e657247b355484cabb887d275762a2,
+      type: 3}
+  - thisGamer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

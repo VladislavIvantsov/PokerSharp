@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b444371da257e34459e4ee3e47f46d51
+timeCreated: 1431967697
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SStandartSet: {fileID: 11400000, guid: 9c926f075a048fb4ba80aba1d85f7aee, type: 2}
+  - NickNameLine: {fileID: 2800000, guid: 4cac90c53d00a784e93ae6e69aab584e, type: 3}
+  - NameLine: {fileID: 2800000, guid: 626e8c02f72ee5e45af42e0f8424073b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

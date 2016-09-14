@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 94caa787c6039a14ba5b33d6b941573d
+timeCreated: 1441189948
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SkinStandartSet: {fileID: 11400000, guid: 9c926f075a048fb4ba80aba1d85f7aee, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
