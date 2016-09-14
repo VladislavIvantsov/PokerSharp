@@ -1,0 +1,6 @@
+First_InputLayer: 13
+First_HiddenLayer: 40
+First_OutputLayer: 1
+Second_InputLayer: 14
+Second_HiddenLayer: 40
+Second_OutputLayer: 3

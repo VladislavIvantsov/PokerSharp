@@ -1,0 +1,19 @@
+c:\users\alexey\documents\visual studio 2010\Projects\AI\AI\bin\Debug\AI.exe
+c:\users\alexey\documents\visual studio 2010\Projects\AI\AI\bin\Debug\AI.pdb
+c:\users\alexey\documents\visual studio 2010\Projects\AI\AI\obj\x86\Debug\AI.exe
+c:\users\alexey\documents\visual studio 2010\Projects\AI\AI\obj\x86\Debug\AI.pdb
+C:\Users\Alexey\Desktop\Project\PoherSharp\AI\AI\obj\x86\Debug\AI.exe
+C:\Users\Alexey\Desktop\Project\PoherSharp\AI\AI\obj\x86\Debug\AI.pdb
+C:\Users\Alexey\Desktop\Project\PoherSharp\AI\AI\bin\Debug\AI.exe
+C:\Users\Alexey\Desktop\Project\PoherSharp\AI\AI\bin\Debug\AI.pdb
+C:\Users\Alexey\Desktop\Project\PoherSharp\AI\AI\obj\x86\Debug\AI.csprojResolveAssemblyReference.cache
+C:\work\PS\PoherSharp\AI\AI\obj\x86\Debug\AI.exe
+C:\work\PS\PoherSharp\AI\AI\obj\x86\Debug\AI.pdb
+C:\work\PS\PoherSharp\AI\AI\bin\Debug\AI.exe
+C:\work\PS\PoherSharp\AI\AI\bin\Debug\AI.pdb
+C:\work\PS\PoherSharp\AI\AI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\AI\AI\obj\x86\Debug\AI.exe
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\AI\AI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\AI\AI\bin\Debug\AI.exe
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\AI\AI\bin\Debug\AI.pdb
+C:\Users\master\Dropbox\Study\Creative Project\PS\PoherSharp\AI\AI\obj\x86\Debug\AI.pdb

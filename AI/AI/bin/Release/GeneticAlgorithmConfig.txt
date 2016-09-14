@@ -1,0 +1,6 @@
+PopulationSize: 100
+CyclesOfEvolution: 1000
+CountOfGenes: 1240
+GenerationGap: 10
+MutationProbability: 2
+MutationRange: 100

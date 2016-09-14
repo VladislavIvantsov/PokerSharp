@@ -1,0 +1,5 @@
+C:\work\PS\PoherSharp\AI\AI\bin\Release\AI.exe
+C:\work\PS\PoherSharp\AI\AI\bin\Release\AI.pdb
+C:\work\PS\PoherSharp\AI\AI\obj\x86\Release\ResolveAssemblyReference.cache
+C:\work\PS\PoherSharp\AI\AI\obj\x86\Release\AI.exe
+C:\work\PS\PoherSharp\AI\AI\obj\x86\Release\AI.pdb
